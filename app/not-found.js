@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function NotFound() {
   return (
-    <div>notBaira niski</div>
+    <div>The page is not Found.</div>
   )
 }
